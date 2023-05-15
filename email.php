@@ -24,7 +24,7 @@ $mail->Host = "smtp.gmail.com";
 $mail->CharSet  = 'UTF-8';
 
 $mail->Username = "visioncomhelper@gmail.com";
-$mail->Password = "eyah veju skcw vjut";
+$mail->Password = /*mail sifrenizi giriniz*/;
 
 $mail->addAddress("metehansozen1907@gmail.com");
 
