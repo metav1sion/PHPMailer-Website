@@ -1,4 +1,4 @@
-##Proje İçeriği
+## Proje İçeriği
 PHPMailer kütüphanesi, Session özellikleri gibi özellikleri barındıran temel bir WEB Projesi
 
 ## Proje Görselleri
