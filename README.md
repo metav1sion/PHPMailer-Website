@@ -1,5 +1,5 @@
 ## Proje İçeriği
-PHPMailer kütüphanesi, Session özellikleri gibi özellikleri barındıran temel bir WEB Projesi
+PHPMailer kütüphanesi, Session özellikleri gibi özellikleri barındıran ve admin paneli olan temel bir WEB Projesi. HTML,CSS,JS,PHP ve phpMyAdmin teknolojileri kullanılmıştır
 
 ## Proje Görselleri
 
